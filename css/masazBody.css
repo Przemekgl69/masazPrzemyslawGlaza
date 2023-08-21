@@ -1,0 +1,109 @@
+.heading {
+    size: 10ch;
+    color: rgb(129, 66, 41);
+    position: absolute;
+    top: 4%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.body {
+    background-color: black;
+}
+
+.link__item {
+    color: rgb(129, 66, 41);
+    font-size: 30px;
+    line-height: 3;
+    text-decoration: none;
+}
+
+.my__foto {
+    width: 30%;
+    height: 50%;
+    background-position: 50%;
+}
+
+.heading__2 {
+    color: rgb(129, 66, 41);
+    margin-left: 45%;
+    text-decoration: underline;
+}
+
+.paragraphOmnie {
+    color: rgb(167, 103, 78);
+    font-size: larger;
+    margin-left: 10%;
+}
+
+.wood__foto {
+    width: 100%;
+    height: 200px;
+}
+
+.paragraphDlaczegoWarto {
+    color: rgb(167, 103, 78);
+    font-size: larger;    
+}
+
+.faceMassage__jpg {
+    height: 390px;
+    width: 49%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.masaz__jpg {
+    height: 390px;
+    width: 49%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.list__oferta {
+    color: rgb(167, 103, 78);
+    font-size: larger; 
+    line-height: 2;
+}
+
+.tableCennik {
+    color: rgb(139, 59, 27);;
+    font-size: larger;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+    margin-left: 28%;
+}
+
+.tableCell {
+border: solid 1px rgb(167, 103, 78);;
+padding: 20px;
+text-align: center;
+}
+
+.tableHeader {
+    background-color: rgb(139, 59, 27); 
+    color: black;
+}
+
+.paragraphKontakt {
+    color:rgb(139, 59, 27);
+    font-size: larger;
+    margin-left: 45%;
+}
+
+.candles__jpg {
+    margin-left: 32%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.link {
+  display: flex;
+  flex-direction: column;
+  align-items: left; 
+}
